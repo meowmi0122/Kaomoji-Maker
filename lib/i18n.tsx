@@ -7,7 +7,7 @@ export type Language = "en" | "zh-TW" | "zh-CN"
 const translations = {
   en: {
     title: "Make your own Kaomoji",
-    subtitle: "(^ ◡ ^)丿",
+    subtitle: "(⊙v⊙)",
     base: "Base",
     eyes: "Eyes",
     mouth: "Mouth/Nose",
@@ -22,7 +22,7 @@ const translations = {
   },
   "zh-TW": {
     title: "製作你的顏文字",
-    subtitle: "(^ ◡ ^)丿",
+    subtitle: "(⊙v⊙)",
     base: "基底",
     eyes: "眼睛",
     mouth: "嘴巴/鼻子",
@@ -37,7 +37,7 @@ const translations = {
   },
   "zh-CN": {
     title: "制作你的颜文字",
-    subtitle: "(^ ◡ ^)丿",
+    subtitle: "(⊙v⊙)",
     base: "基底",
     eyes: "眼睛",
     mouth: "嘴巴/鼻子",
